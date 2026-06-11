@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://redcamel.github.io/RedGPU/sitemap/sitemap.xml
