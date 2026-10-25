@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+url: https://redcamel.github.io
+plugins:
+  - jekyll-sitemap
